@@ -47,11 +47,6 @@ Usage
 -   Enter a username and click "Join Chat"
 -   Type a message in the input field and hit "Enter" or click the send button
 
-License
--------
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 Contact
 -------
 
